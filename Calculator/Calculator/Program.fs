@@ -7,5 +7,5 @@ let Add input =
                                                               //in which we turn it to int then calculate the sum
 
 
-
+let resultOfEmpty= Add ""
 let result = Add "1,2" 
